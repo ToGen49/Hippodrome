@@ -25,7 +25,7 @@
         <mxCell id="xCyyZixQw2WoGiizkKXN-37" value="Robot" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xCyyZixQw2WoGiizkKXN-38" value="Terrain" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="xCyyZixQw2WoGiizkKXN-38" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="220" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
