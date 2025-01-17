@@ -26,7 +26,7 @@
           <mxGeometry x="440" y="850" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-5" value="Déplacé le pénétromètre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-1" target="rjw5BKhiwVMn2x_U4crC-5">
           <mxGeometry width="160" relative="1" as="geometry">
