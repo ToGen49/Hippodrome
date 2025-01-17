@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-17" value="Transmettre les données" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="1260" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,15 +75,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-20" value="Passerelle de Com" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="1560" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="530" as="sourcePoint" />
-            <mxPoint x="1270" y="520" as="targetPoint" />
+            <mxPoint x="1450" y="330" as="sourcePoint" />
+            <mxPoint x="1520" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1140" y="330" />
-              <mxPoint x="1140" y="520" />
+              <mxPoint x="1440" y="330" />
+              <mxPoint x="1440" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
