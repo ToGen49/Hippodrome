@@ -74,6 +74,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-20" value="Passerelle de Com" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
