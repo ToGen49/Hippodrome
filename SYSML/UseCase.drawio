@@ -43,6 +43,9 @@
             <mxPoint x="570" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-12" value="Se Géolocalisé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
