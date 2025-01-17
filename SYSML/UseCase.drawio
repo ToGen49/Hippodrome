@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;uc&lt;/b&gt;&amp;nbsp;[Model] PremiumGalop[Robot_Météo_Pénétromètre]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
-          <mxGeometry x="300" y="270" width="1120" height="780" as="geometry" />
+          <mxGeometry x="980" y="270" width="1120" height="780" as="geometry" />
         </mxCell>
         <mxCell id="4VqIffsGQim2xEKF7OKt-1" value="Robot Autonome" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="30" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-9" value="S&#39;orienté" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,12 +44,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-12" value="Se Géolocalisé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-9" target="rjw5BKhiwVMn2x_U4crC-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="770" y="415" as="sourcePoint" />
-            <mxPoint x="770" y="370" as="targetPoint" />
+            <mxPoint x="770" y="385" as="sourcePoint" />
+            <mxPoint x="770" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
