@@ -61,6 +61,9 @@
             <mxPoint x="830" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-17" value="Transmettre les données" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
