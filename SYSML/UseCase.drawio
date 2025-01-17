@@ -63,14 +63,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-17" value="Transmettre les données" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="900" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rjw5BKhiwVMn2x_U4crC-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="490" as="sourcePoint" />
             <mxPoint x="575" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="575" y="300" />
+              <mxPoint x="575" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,7 +82,7 @@
             <mxPoint x="790" y="530" as="sourcePoint" />
             <mxPoint x="1270" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1140" y="300" />
+              <mxPoint x="1140" y="330" />
               <mxPoint x="1140" y="520" />
             </Array>
           </mxGeometry>
