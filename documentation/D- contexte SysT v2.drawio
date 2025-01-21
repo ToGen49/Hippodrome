@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
+  <diagram name="Page-1" id="wx6Wx51T-HRnJOHuFUpR">
+    <mxGraphModel dx="1905" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-1" value="Système d&#39;acquisition" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-9" value="IHM" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="827" y="189.09" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-5" target="dD9_M7wz6fr-aiXC_PVn-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794" y="220" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1 température du sol&lt;br&gt;2 humidité du sol&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3 précipitations&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4 vitesse du vent&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 évapotranspiration&lt;br&gt;6 résistance à l&#39;enforcement&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="114.09" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;7 données météorologiques&lt;br&gt;8 état de la piste&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-16" target="dD9_M7wz6fr-aiXC_PVn-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="404.09" as="sourcePoint" />
+            <mxPoint x="400" y="354.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-19" target="dD9_M7wz6fr-aiXC_PVn-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="410" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-5" value="SystemeDeTraitement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="204.09" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FqyvC8Yc04-uAljOEXz-1" target="dD9_M7wz6fr-aiXC_PVn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-1" value="Base de Donnée" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dD9_M7wz6fr-aiXC_PVn-1" target="6FqyvC8Yc04-uAljOEXz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1 température du sol&lt;br&gt;2 humidité du sol&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3 précipitations&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4 vitesse du vent&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 évapotranspiration&lt;br&gt;6 résistance à l&#39;enforcement&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="113.18" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FqyvC8Yc04-uAljOEXz-5" target="6FqyvC8Yc04-uAljOEXz-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="413.18" as="sourcePoint" />
+            <mxPoint x="380" y="363.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-8" value="Opérateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="6FqyvC8Yc04-uAljOEXz-8" source="dD9_M7wz6fr-aiXC_PVn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="857" y="220" as="sourcePoint" />
+            <mxPoint x="857" y="360.90999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;7 données météorologiques&lt;br&gt;8 état de la piste&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="857" y="169.09" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6FqyvC8Yc04-uAljOEXz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FqyvC8Yc04-uAljOEXz-10" target="6FqyvC8Yc04-uAljOEXz-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="837" y="409.09" as="sourcePoint" />
+            <mxPoint x="887" y="359.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
