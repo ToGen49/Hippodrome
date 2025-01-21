@@ -34,7 +34,7 @@
             <mxPoint x="507.57359312880703" y="401.71572875253787" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A1wWBjNQIWdNoJpYyP1X-25" value="Recevoir les données archivées brut" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="A1wWBjNQIWdNoJpYyP1X-25" value="Recevoir les données archivées brutes" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A1wWBjNQIWdNoJpYyP1X-26" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" edge="1" parent="1" source="A1wWBjNQIWdNoJpYyP1X-5" target="A1wWBjNQIWdNoJpYyP1X-25">
