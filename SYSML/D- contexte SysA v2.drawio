@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
+  <diagram name="Page-1" id="wx6Wx51T-HRnJOHuFUpR">
+    <mxGraphModel dx="1773" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-1" value="Environnement climatique" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-9" value="Base de Donnée" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-24" value="Terrain de course" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-27" value="3 précipitations&lt;br&gt;4 vitesse du vent&lt;br&gt;5 évapotranspiration" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="195.5" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-28" value="1 température du sol&lt;br&gt;2 humidité du sol&lt;br&gt;6 résistance à l&#39;enfoncement" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="315.5" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-29" value="Système d&#39;acquisition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="257.75" width="170" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-1" target="dD9_M7wz6fr-aiXC_PVn-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-24" target="dD9_M7wz6fr-aiXC_PVn-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dD9_M7wz6fr-aiXC_PVn-29" target="dD9_M7wz6fr-aiXC_PVn-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD9_M7wz6fr-aiXC_PVn-34" value="1 température du sol&lt;br&gt;2 humidité du sol&lt;br&gt;3 précipitations&lt;br&gt;4 vitesse du vent&lt;br&gt;5 évapotranspiration&lt;br&gt;6 résistance à l&#39;enfoncement" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="190" width="200" height="89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
