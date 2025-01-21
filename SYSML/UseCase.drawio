@@ -35,10 +35,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjw5BKhiwVMn2x_U4crC-9" value="S&#39;orienté" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-9" value="S&#39;orienter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rjw5BKhiwVMn2x_U4crC-12" value="Se Géolocalisé" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-12" value="Se Géolocaliser" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-9" target="rjw5BKhiwVMn2x_U4crC-12" edge="1">
@@ -85,9 +85,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rjw5BKhiwVMn2x_U4crC-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-17" target="rjw5BKhiwVMn2x_U4crC-12" edge="1">
+        <mxCell id="rjw5BKhiwVMn2x_U4crC-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-12" target="rjw5BKhiwVMn2x_U4crC-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="900" y="460" as="sourcePoint" />
+            <mxPoint x="1240" y="490" as="sourcePoint" />
             <mxPoint x="1060" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
