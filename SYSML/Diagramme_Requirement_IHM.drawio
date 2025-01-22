@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:7px;text-align:left;&quot;&gt;&lt;b&gt;req : IHM&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" vertex="1" parent="1">
-          <mxGeometry x="33" y="80" width="1567" height="880" as="geometry" />
+          <mxGeometry x="33" y="80" width="1567" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-2" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="130" width="200" height="106" as="geometry" />
@@ -331,7 +331,7 @@
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-119" value="text=&quot;Une réflexion pour effectuer un déploiement de l&#39;applicatif lors des mises à jour de l&#39;exécutable sur les postes client devra être menée&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-115">
           <mxGeometry y="42" width="200" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-120" value="Id=&quot;8.3.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-115">
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-120" value="Id=&quot;8.3.2&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-115">
           <mxGeometry y="110" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-121" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-115">
@@ -341,6 +341,68 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1180" y="442" as="sourcePoint" />
             <mxPoint x="1180" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-123" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="710" width="200" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-124" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-125" value="Numéro Version Mise à Jour" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry y="16" width="200" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-126" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry y="34" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-127" value="text=&quot;L&#39;application doit avoir un numéro de version pour chaque Mise à Jour&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry y="42" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-128" value="Id=&quot;8.3.2.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry y="90" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-129" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-123">
+          <mxGeometry y="106" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-130" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="920" width="210" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-131" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry width="210" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-132" value="Forme Numéro Version Mise à Jour" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry y="16" width="210" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-133" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry y="34" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-134" value="text=Le numéro de version de l&#39;application sera de la forme&lt;div&gt;V.principal.secondaire.révision&quot;&lt;/div&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry y="42" width="210" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-135" value="Id=&quot;8.3.2.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry y="100" width="210" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-136" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
+          <mxGeometry y="116" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-137" value="&amp;lt;&amp;lt;deriveReq&amp;gt;&amp;gt;" style="endArrow=open;html=1;edgeStyle=none;endSize=12;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3VNXTZ4ML6IGrB6xeTb8-124" target="3VNXTZ4ML6IGrB6xeTb8-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="640" as="sourcePoint" />
+            <mxPoint x="424" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-140" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="3VNXTZ4ML6IGrB6xeTb8-131" target="3VNXTZ4ML6IGrB6xeTb8-129" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="900" as="sourcePoint" />
+            <mxPoint x="1050" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-141" value="principal et secondaire : changement en manuel&lt;div&gt;révision : changement en automatique à chaque création d&#39;un exécutable&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="971" y="970" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-143" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=270;exitDy=37.5;exitPerimeter=0;" edge="1" source="3VNXTZ4ML6IGrB6xeTb8-141" target="3VNXTZ4ML6IGrB6xeTb8-134" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
