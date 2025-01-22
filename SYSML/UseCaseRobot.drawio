@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1314" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="367" dy="167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4VqIffsGQim2xEKF7OKt-2" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="740" width="30" height="60" as="geometry" />
+          <mxGeometry x="320" y="740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-1" value="Récupérer résistance&lt;br&gt;du terrain" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="405" width="140" height="70" as="geometry" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-4" value="Station Météo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1070" width="30" height="60" as="geometry" />
+          <mxGeometry x="320" y="1070" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-5" value="Déplacer le pénétromètre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="270" width="120" height="80" as="geometry" />
