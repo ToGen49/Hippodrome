@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="998" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2773" dy="1264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;uc&lt;/b&gt;&amp;nbsp;[Model] PremiumGalop[Robot_Météo_Pénétromètre]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
-          <mxGeometry x="260" y="170" width="1270" height="1020" as="geometry" />
+          <mxGeometry x="290" y="240" width="1270" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="4VqIffsGQim2xEKF7OKt-1" value="Robot Autonome" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="30" height="60" as="geometry" />
@@ -36,19 +36,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-9" value="S&#39;orienter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="1060" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-12" value="Se Géolocaliser" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="1060" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-9" target="rjw5BKhiwVMn2x_U4crC-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="850" y="495" as="sourcePoint" />
-            <mxPoint x="850" y="450" as="targetPoint" />
+            <mxPoint x="900" y="495" as="sourcePoint" />
+            <mxPoint x="900" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-14" value="Se déplacer" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="840" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-5" target="rjw5BKhiwVMn2x_U4crC-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -63,32 +63,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-17" value="Transmettre les données" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="1060" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="490" as="sourcePoint" />
             <mxPoint x="560" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1070" y="640" />
+              <mxPoint x="1120" y="640" />
               <mxPoint x="560" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-20" value="Passerelle de Com" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="530" width="30" height="60" as="geometry" />
+          <mxGeometry x="1310" y="530" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1510" y="330" as="sourcePoint" />
-            <mxPoint x="1240" y="560" as="targetPoint" />
+            <mxPoint x="1560" y="330" as="sourcePoint" />
+            <mxPoint x="1290" y="560" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rjw5BKhiwVMn2x_U4crC-12" target="rjw5BKhiwVMn2x_U4crC-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1240" y="490" as="sourcePoint" />
-            <mxPoint x="1060" y="460" as="targetPoint" />
+            <mxPoint x="1290" y="490" as="sourcePoint" />
+            <mxPoint x="1110" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rjw5BKhiwVMn2x_U4crC-25" value="Utiliser le pénétromètre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
