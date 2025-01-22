@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="wZjGFkpeC9HKHl80YT61">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="33" y="80" width="1567" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-2" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="130" width="200" height="106" as="geometry" />
+          <mxGeometry x="730" y="110" width="200" height="126" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-3" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
           <mxGeometry width="200" height="16" as="geometry" />
@@ -19,14 +19,14 @@
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-5" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
           <mxGeometry y="34" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-6" value="text=&quot;Le système doit avoir une IHM pour regarder les informations&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
-          <mxGeometry y="42" width="200" height="28" as="geometry" />
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-6" value="text=&quot;Le système doit avoir une IHM pour consulter les informations&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
+          <mxGeometry y="42" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-7" value="Id=&quot;8&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
-          <mxGeometry y="70" width="200" height="16" as="geometry" />
+          <mxGeometry y="90" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-8" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-2">
-          <mxGeometry y="86" width="200" height="20" as="geometry" />
+          <mxGeometry y="106" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-9" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="200" height="98" as="geometry" />
@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-99" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="280" width="200" height="152" as="geometry" />
+          <mxGeometry x="1070" y="280" width="200" height="132" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-100" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-99">
           <mxGeometry width="200" height="16" as="geometry" />
@@ -275,13 +275,13 @@
           <mxGeometry y="34" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-103" value="text=&quot;L&#39;IHM doit obéir à plusieurs exigence vis-à-vis du setup&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-99">
-          <mxGeometry y="42" width="200" height="68" as="geometry" />
+          <mxGeometry y="42" width="200" height="48" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-104" value="Id=&quot;8.3&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-99">
-          <mxGeometry y="110" width="200" height="16" as="geometry" />
+          <mxGeometry y="90" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-105" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-99">
-          <mxGeometry y="126" width="200" height="26" as="geometry" />
+          <mxGeometry y="106" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-106" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3VNXTZ4ML6IGrB6xeTb8-8" target="3VNXTZ4ML6IGrB6xeTb8-100">
           <mxGeometry relative="1" as="geometry">
@@ -365,7 +365,7 @@
           <mxGeometry y="106" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-130" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="920" width="210" height="142" as="geometry" />
+          <mxGeometry x="1315" y="900" width="210" height="142" as="geometry" />
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-131" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3VNXTZ4ML6IGrB6xeTb8-130">
           <mxGeometry width="210" height="16" as="geometry" />
@@ -398,9 +398,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3VNXTZ4ML6IGrB6xeTb8-141" value="principal et secondaire : changement en manuel&lt;div&gt;révision : changement en automatique à chaque création d&#39;un exécutable&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="971" y="970" width="270" height="60" as="geometry" />
+          <mxGeometry x="950" y="940" width="291" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-143" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=270;exitDy=37.5;exitPerimeter=0;" edge="1" source="3VNXTZ4ML6IGrB6xeTb8-141" target="3VNXTZ4ML6IGrB6xeTb8-134" parent="1">
+        <mxCell id="3VNXTZ4ML6IGrB6xeTb8-143" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.996;exitY=0.549;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="3VNXTZ4ML6IGrB6xeTb8-141" target="3VNXTZ4ML6IGrB6xeTb8-134" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="960" as="targetPoint" />
           </mxGeometry>
