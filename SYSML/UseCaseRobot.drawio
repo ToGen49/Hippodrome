@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;uc&lt;/b&gt;&amp;nbsp;[Model] PremiumGalop[Robot_Météo_Pénétromètre]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
-          <mxGeometry x="190" y="90" width="1270" height="1020" as="geometry" />
+          <mxGeometry x="190" y="70" width="1270" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="4VqIffsGQim2xEKF7OKt-1" value="Robot Autonome" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="410" width="30" height="60" as="geometry" />
