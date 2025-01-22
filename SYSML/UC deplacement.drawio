@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;uc&lt;/b&gt; [package] PremiumGalop usecase[HSUV Specification]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
-          <mxGeometry x="209" y="80" width="1085" height="650" as="geometry" />
+          <mxGeometry x="250" y="70" width="1085" height="650" as="geometry" />
         </mxCell>
         <mxCell id="xCyyZixQw2WoGiizkKXN-24" value="deplacer le penetrométre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="190" width="120" height="80" as="geometry" />
@@ -133,22 +133,22 @@
             <mxPoint x="810" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.45;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xCyyZixQw2WoGiizkKXN-24" target="rB0loOmNJxee1lKb3a_r-1">
+        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.45;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xCyyZixQw2WoGiizkKXN-24" target="rB0loOmNJxee1lKb3a_r-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="610" y="310" as="sourcePoint" />
             <mxPoint x="770" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-3" value="Station" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-3" value="Station" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1230" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qCUjX7SW4Hq-vfT8Qb6m-3" target="rB0loOmNJxee1lKb3a_r-5">
+        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qCUjX7SW4Hq-vfT8Qb6m-3" target="rB0loOmNJxee1lKb3a_r-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="710" y="390" as="sourcePoint" />
             <mxPoint x="870" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xCyyZixQw2WoGiizkKXN-24" target="rB0loOmNJxee1lKb3a_r-2">
+        <mxCell id="qCUjX7SW4Hq-vfT8Qb6m-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xCyyZixQw2WoGiizkKXN-24" target="rB0loOmNJxee1lKb3a_r-2" edge="1">
           <mxGeometry x="-1" y="-25" width="160" relative="1" as="geometry">
             <mxPoint x="590" y="400" as="sourcePoint" />
             <mxPoint x="750" y="400" as="targetPoint" />
