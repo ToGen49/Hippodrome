@@ -95,10 +95,10 @@
         <mxCell id="Au6MMPrLlBBfnPEqebIy-12" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
           <mxGeometry y="43" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Au6MMPrLlBBfnPEqebIy-13" value="text=&quot;Récupérer et transmettre données sur passerelle&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
+        <mxCell id="Au6MMPrLlBBfnPEqebIy-13" value="text=&quot;Transmettre données&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
           <mxGeometry y="51" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Au6MMPrLlBBfnPEqebIy-14" value="Id=&quot;2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
+        <mxCell id="Au6MMPrLlBBfnPEqebIy-14" value="Id=&quot;2.2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
           <mxGeometry y="93" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="Au6MMPrLlBBfnPEqebIy-15" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-9">
