@@ -13,10 +13,10 @@
         <mxCell id="lSDjiLI6Fbdi74hgmNVY-2" value="UC : Système_D&#39;_Acquistion" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lSDjiLI6Fbdi74hgmNVY-4" value="Robot" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="lSDjiLI6Fbdi74hgmNVY-4" value="&lt;b&gt;Robot&lt;/b&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lSDjiLI6Fbdi74hgmNVY-6" value="Station_météo" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="lSDjiLI6Fbdi74hgmNVY-6" value="&lt;b&gt;Station_météo&lt;/b&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lSDjiLI6Fbdi74hgmNVY-7" value="Fournir des données de terrain" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
