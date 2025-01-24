@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Planification PremiumGalop" company="" webLink="http://" view-date="2025-01-14" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3312" locale="fr_FR">
+    <description/>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="200" order="0"/>
+        <field id="tpd4" name="Date de début" width="75" order="1"/>
+        <field id="tpd5" name="Date de fin" width="75" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+        <option id="color.recent"><![CDATA[#3333ff #f4f4f4 #660066 #ffff00]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="f3ebe1b176974858b70260e91dddd21b" name="Début du projet" color="#ffff00" meeting="true" start="2025-01-14" duration="0" complete="0" expand="true"/>
+        <task id="1" uid="8c1186964a77407e9a184438dfa37b77" name="Revue 0" color="#660066" meeting="true" start="2025-02-03" duration="0" complete="0" expand="true"/>
+        <task id="4" uid="aedcac5fb14e43ac88f65893dc49a556" name="Scéance 2" meeting="false" start="2025-01-21" duration="1" complete="0" expand="true">
+            <notes><![CDATA[En équipe - 
+
+Objectifs :
+D- contexte
+Définission des tâches à préparer la revue 0
+Organisation du planning
+
+Lancement :
+D- Requirement
+D- Use Case]]></notes>
+        </task>
+        <task id="7" uid="198e320d70504486ac3193307cc110ed" name="Scéance 5" meeting="false" start="2025-01-27" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs :
+Création des scénarios]]></notes>
+        </task>
+        <task id="8" uid="4492b2dd6a0b42e2a432c85c33b87179" name="Scéance 6" meeting="false" start="2025-01-28" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs :
+Définition de l'architecture globale]]></notes>
+        </task>
+        <task id="9" uid="c7b0556e563a4469832dd983746a39fc" name="Scéance 7" meeting="false" start="2025-01-29" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs :
+Fin de la définition de l'architecture globale
+]]></notes>
+        </task>
+        <task id="10" uid="cdb88926b5d94ca1a3a8a061a9c3d174" name="Scéance 8" meeting="false" start="2025-01-31" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectif : 
+Préparation de la revue 0 Terminé]]></notes>
+        </task>
+        <task id="5" uid="73425d74b62944d58805c1ad39c35d84" name="Scéance 3" meeting="false" start="2025-01-22" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectif : 
+Continuation Requirement et Use Cases]]></notes>
+        </task>
+        <task id="6" uid="2a516be9b352443abef8cb4aff347c8c" name="Scéance 4" meeting="false" start="2025-01-24" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs : 
+Mise au point Requirement et Use Cases]]></notes>
+        </task>
+        <task id="3" uid="105bc64d535b42d3975cf4ec013e0bff" name="Séance 1" meeting="false" start="2025-01-17" duration="1" complete="0" expand="true">
+            <notes><![CDATA[En équipe :
+ Mory : Diragrame de contexte V1 pour système de traitement et Système d'acquisition]]></notes>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
