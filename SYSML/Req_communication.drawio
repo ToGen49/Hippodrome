@@ -77,7 +77,7 @@
         <mxCell id="Au6MMPrLlBBfnPEqebIy-5" value="text=&quot;Décoder les données entrante&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-1">
           <mxGeometry y="51" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Au6MMPrLlBBfnPEqebIy-6" value="Id=&quot;2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-1">
+        <mxCell id="Au6MMPrLlBBfnPEqebIy-6" value="Id=&quot;2.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-1">
           <mxGeometry y="93" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="Au6MMPrLlBBfnPEqebIy-7" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="Au6MMPrLlBBfnPEqebIy-1">
