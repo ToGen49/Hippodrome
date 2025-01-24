@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="26.0.7">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1248" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="486" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="gL3Civ_0kA5RlNFKBFCX-5" value="text=&quot;Récupérer et transmettre données sur passerelle&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
           <mxGeometry y="51" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gL3Civ_0kA5RlNFKBFCX-6" value="Id=&quot;1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
+        <mxCell id="gL3Civ_0kA5RlNFKBFCX-6" value="Id=&quot;2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
           <mxGeometry y="93" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="gL3Civ_0kA5RlNFKBFCX-7" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
