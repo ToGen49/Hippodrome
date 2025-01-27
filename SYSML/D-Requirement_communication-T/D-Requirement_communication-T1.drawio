@@ -68,7 +68,7 @@
         <mxCell id="Au6MMPrLlBBfnPEqebIy-2" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" parent="Au6MMPrLlBBfnPEqebIy-1" vertex="1">
           <mxGeometry width="200" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Au6MMPrLlBBfnPEqebIy-3" value="Réception des données" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" parent="Au6MMPrLlBBfnPEqebIy-1" vertex="1">
+        <mxCell id="Au6MMPrLlBBfnPEqebIy-3" value="Décodage des données" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" parent="Au6MMPrLlBBfnPEqebIy-1" vertex="1">
           <mxGeometry y="16" width="200" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Au6MMPrLlBBfnPEqebIy-4" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Au6MMPrLlBBfnPEqebIy-1" vertex="1">
