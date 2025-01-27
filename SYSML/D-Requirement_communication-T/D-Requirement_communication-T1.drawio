@@ -89,7 +89,7 @@
         <mxCell id="Au6MMPrLlBBfnPEqebIy-10" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" parent="Au6MMPrLlBBfnPEqebIy-9" vertex="1">
           <mxGeometry width="200" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Au6MMPrLlBBfnPEqebIy-11" value="System de Communication" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" parent="Au6MMPrLlBBfnPEqebIy-9" vertex="1">
+        <mxCell id="Au6MMPrLlBBfnPEqebIy-11" value="Transmission des données" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" parent="Au6MMPrLlBBfnPEqebIy-9" vertex="1">
           <mxGeometry y="16" width="200" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Au6MMPrLlBBfnPEqebIy-12" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Au6MMPrLlBBfnPEqebIy-9" vertex="1">
@@ -131,6 +131,27 @@
             <mxPoint x="960" y="246.91" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-2" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="877" y="180" width="200" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-3" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-4" value="System de Communication" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry y="16" width="200" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-5" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry y="43" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-6" value="text=&quot;Transmettre données&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry y="51" width="200" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-7" value="Id=&quot;2.2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry y="93" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="3040LS8pmtFOnnAg7v6W-8" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="3040LS8pmtFOnnAg7v6W-2">
+          <mxGeometry y="109" width="200" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
