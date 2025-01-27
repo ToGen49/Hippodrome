@@ -19,10 +19,10 @@
         <mxCell id="gL3Civ_0kA5RlNFKBFCX-4" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
           <mxGeometry y="43" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="gL3Civ_0kA5RlNFKBFCX-5" value="text=&quot;Récupérer et transmettre données sur passerelle&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
+        <mxCell id="gL3Civ_0kA5RlNFKBFCX-5" value="text=&quot;Se géolocaliser&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
           <mxGeometry y="51" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="gL3Civ_0kA5RlNFKBFCX-6" value="Id=&quot;2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
+        <mxCell id="gL3Civ_0kA5RlNFKBFCX-6" value="Id=&quot;3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
           <mxGeometry y="93" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="gL3Civ_0kA5RlNFKBFCX-7" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" parent="gL3Civ_0kA5RlNFKBFCX-1" vertex="1">
