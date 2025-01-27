@@ -1,0 +1,16 @@
+Tâche 1: Acquisition des données météo
+Tâche 2: Installation de la station météo
+Tâche 3: Documentation station météo
+Tâche 4: Réception des données
+Tâche 5: Archivage des données
+Tâche 6: Configuration du serveur
+Tâche 7: Documentation sur les données
+Tâche 8: Analyse des données
+Tâche 9: Création des interfaces utilisateur
+Tâche 10: Documentation interface
+Tâche 11: Mise en service du robot
+Tâche 12: Géolocalisation et orientation
+Tâche 13: Documentation sur le robot
+Tâche 14: Mouvement et capteurs du robot
+Tâche 15: Tests et validation des capteurs
+Tâche 16: Documentation capteurs
