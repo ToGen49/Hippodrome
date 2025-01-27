@@ -71,16 +71,16 @@
         <mxCell id="JBRHRFo_unuxkp8JoujN-9" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
           <mxGeometry width="200" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="JBRHRFo_unuxkp8JoujN-10" value="Acquérir la position" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
+        <mxCell id="JBRHRFo_unuxkp8JoujN-10" value="Trianguler la position" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
           <mxGeometry y="16" width="200" height="27" as="geometry" />
         </mxCell>
         <mxCell id="JBRHRFo_unuxkp8JoujN-11" value="" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
           <mxGeometry y="43" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="JBRHRFo_unuxkp8JoujN-12" value="text=&quot;Récupérer la position&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
+        <mxCell id="JBRHRFo_unuxkp8JoujN-12" value="text=&quot;Se repérer grâce au sattelite&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
           <mxGeometry y="51" width="200" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JBRHRFo_unuxkp8JoujN-13" value="Id=&quot;3.1&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
+        <mxCell id="JBRHRFo_unuxkp8JoujN-13" value="Id=&quot;3.2&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
           <mxGeometry y="93" width="200" height="16" as="geometry" />
         </mxCell>
         <mxCell id="JBRHRFo_unuxkp8JoujN-14" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-8">
