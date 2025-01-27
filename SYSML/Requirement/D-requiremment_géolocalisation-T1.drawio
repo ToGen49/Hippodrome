@@ -87,7 +87,7 @@
           <mxGeometry y="109" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JBRHRFo_unuxkp8JoujN-15" value="" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="777" y="170" width="200" height="135" as="geometry" />
+          <mxGeometry x="830" y="170" width="200" height="135" as="geometry" />
         </mxCell>
         <mxCell id="JBRHRFo_unuxkp8JoujN-16" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" vertex="1" parent="JBRHRFo_unuxkp8JoujN-15">
           <mxGeometry width="200" height="16" as="geometry" />
@@ -135,6 +135,12 @@
             <Array as="points">
               <mxPoint x="380" y="452" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBRHRFo_unuxkp8JoujN-40" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="JBRHRFo_unuxkp8JoujN-19" target="JBRHRFo_unuxkp8JoujN-12" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="10" as="sourcePoint" />
+            <mxPoint x="1060" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
