@@ -9,7 +9,7 @@
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
         <option id="filter.inProgressTodayTasks" value="false"/>
-        <option id="color.recent"><![CDATA[#ff9900 #3333ff #f4f4f4 #660066 #ffff00]]></option>
+        <option id="color.recent"><![CDATA[#ff9900 #ff0000 #3333ff #f4f4f4 #660066 #ffff00]]></option>
     </view>
     <view id="resource-table">
         <field id="0" name="Nom" width="210" order="0"/>
@@ -40,7 +40,19 @@
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
         <task id="0" uid="f3ebe1b176974858b70260e91dddd21b" name="Début du projet" color="#ffff00" meeting="true" start="2025-01-14" duration="0" complete="0" expand="true"/>
-        <task id="1" uid="8c1186964a77407e9a184438dfa37b77" name="Revue 0" color="#660066" meeting="true" start="2025-02-03" duration="0" complete="0" expand="true"/>
+        <task id="1" uid="8c1186964a77407e9a184438dfa37b77" name="Revue 0" color="#660066" meeting="true" start="2025-02-03" duration="0" complete="0" expand="true">
+            <notes><![CDATA[Retard pris par rapport à la planification :
+- la définission de l'architecture globale n'a pas (ou presque pas) été réalisée.
+
+Raison de ce retard : 
+-Les scéances 6 et 7 n'ont pas été allouées au projet comme prévu dans la planification, l'organisation de scéances hors scolaires ne s'est pas faite.
+-Le début du projet ne s'est pas fait au mieux, la planification ainsi que la définition des objectifs a pris trop de temps. ]]></notes>
+        </task>
+        <task id="14" uid="4dc4f186ad6446ddbba487b420ef2d48" name="Début Vaccances" meeting="true" start="2025-02-08" duration="0" complete="0" expand="true">
+            <notes><![CDATA[Objectif : 31/01
+Architecture globale terminée
+Les solutions les plus importantes sont définies]]></notes>
+        </task>
         <task id="4" uid="aedcac5fb14e43ac88f65893dc49a556" name="Scéance 2" meeting="false" start="2025-01-21" duration="1" complete="0" expand="true">
             <notes><![CDATA[En équipe - 
 
@@ -69,7 +81,7 @@ Revue des uses cases
 début de la créatiion des scénarios
 ]]></notes>
         </task>
-        <task id="8" uid="4492b2dd6a0b42e2a432c85c33b87179" name="Scéance 6" meeting="false" start="2025-01-28" duration="1" complete="0" expand="true">
+        <task id="8" uid="4492b2dd6a0b42e2a432c85c33b87179" name="Scéance 6" color="#ff0000" meeting="false" start="2025-01-28" duration="1" complete="0" expand="true">
             <notes><![CDATA[Objectifs : 21/01
 Réalisation de l'architecture globale.
 
@@ -80,19 +92,18 @@ Raison du retard / différence :
 la Scéance 6 n'as pas été consacrée au projet.
 ]]></notes>
         </task>
-        <task id="9" uid="c7b0556e563a4469832dd983746a39fc" name="Scéance 7" meeting="false" start="2025-01-29" duration="1" complete="0" expand="true">
-            <notes><![CDATA[Objectifs :
+        <task id="9" uid="c7b0556e563a4469832dd983746a39fc" name="Scéance 7" color="#ff0000" meeting="false" start="2025-01-29" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs : 21/01
 Fin de la définition de l'architecture globale
 
 Nouveaux Objetifs : 28/01
 Début de la définission de l'architecture globale 
 compréhension des diagrammes et début de leurs élaboration.
 
-Realisations :
-
-
 Raison du retard / différence :
-La scéance 6 n'a pas été consacrée au projet.]]></notes>
+Les scéances 6 et 7 n'on pas été consacrés au projet.
+
+]]></notes>
         </task>
         <task id="10" uid="cdb88926b5d94ca1a3a8a061a9c3d174" name="Scéance 8" meeting="false" start="2025-01-31" duration="1" complete="0" expand="true">
             <notes><![CDATA[Objectif : 21/01
@@ -102,21 +113,10 @@ Nouveaux Objectifs : 28/01
 Fin de la définission de l'architecture globale.
 
 Raison du retard / différence :
-La scéance 6 n'a pas été consacrée au projet.]]></notes>
-        </task>
-        <task id="12" uid="05ce0afa86b745f6a473609c386a6d19" name="HorsScéance 2" color="#ff9900" meeting="false" start="2025-02-01" duration="1" complete="0" expand="true">
-            <notes><![CDATA[Objectifs : 28/01
-Ternimer la préparation de la revue 0.
+Les scéances 6 et 7 n'on pas été consacrés au projet.
 
-Raison de cette scéance  :
-retard dans la planification, une scéance sera necessaire pour préparer correctement la revue 0]]></notes>
-        </task>
-        <task id="13" uid="2ebf6e044d1c454388138ba575e093f5" name="HorsScéance 1" color="#ff9900" meeting="false" start="2025-01-29" duration="1" complete="0" expand="true">
-            <notes><![CDATA[Obectifs : 28/01
-Revue des requirements et des diagrammes necessaires.
-
-Raison de cette scéance : 
-La planification a pris du retard et un étape supplémentaire vise a assurer la présence de tous les documents necessaire ainsi que la raison de leurs présence.]]></notes>
+Réalisations :
+Recherche de solutions, préparation revue 0]]></notes>
         </task>
         <task id="5" uid="73425d74b62944d58805c1ad39c35d84" name="Scéance 3" meeting="false" start="2025-01-22" duration="1" complete="0" expand="true">
             <notes><![CDATA[Objectif : 21/01
@@ -135,7 +135,7 @@ Réalisations :
 Requirement
 Use Cases]]></notes>
         </task>
-        <task id="3" uid="105bc64d535b42d3975cf4ec013e0bff" name="Séance 1" meeting="false" start="2025-01-17" duration="1" complete="0" expand="true">
+        <task id="3" uid="105bc64d535b42d3975cf4ec013e0bff" name="Séance 1" color="#ff9900" meeting="false" start="2025-01-17" duration="1" complete="0" expand="true">
             <notes><![CDATA[L'équipe :
 Continuation de l'analyse du sujet et lancement des premiers diagrammes.
 premières version des diagrammes de contexte.
@@ -146,6 +146,23 @@ aube d'un UseCase.
             <notes><![CDATA[Réception du cahier des charges :
 Début de l'analyse et de la compréhension du sujet.
 ]]></notes>
+        </task>
+        <task id="15" uid="4a80c4d6e6a0413ab096c44034a169f6" name="Scéance 9" meeting="false" start="2025-02-03" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs :
+Réussir la Revue 0]]></notes>
+        </task>
+        <task id="16" uid="228650267ceb46bc8f8fbe78e4fefcf1" name="Scéance 10" meeting="false" start="2025-02-04" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs : 31/01
+Recherches et avancement sérieux de l'architecture globale
+diagrammes de bloc et blocs interne tous ou presque avancés.]]></notes>
+        </task>
+        <task id="18" uid="9a0ba1388d8a489fa931bf470dff9902" name="Scéance 12" meeting="false" start="2025-02-07" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs : 31/01
+Avancement de la recherche de solutions ]]></notes>
+        </task>
+        <task id="17" uid="6bd75c0eda414aee843d38db306eebbe" name="Scéance 11" meeting="false" start="2025-02-05" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Objectifs : 31/01
+Fin de la définission de l'architecture globale, blocs, blocs interne et déploiements.]]></notes>
         </task>
     </tasks>
     <resources/>
