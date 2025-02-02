@@ -1,6 +1,6 @@
 Diagram SYSML Repertoire
 
-[UseCase](https://app.diagrams.net/#HToGen49%2FHippodrome%2Fmain%2FSYSML%2FUseCase.drawio)
+[UseCase_BDD 1](https://app.diagrams.net/#HToGen49%2FHippodrome%2Fmain%2FSYSML%2FUseCase%2FD-UseCase_BDD-F1.drawio)
 
 [Use_Case_BDD](https://app.diagrams.net/#HToGen49%2FHippodrome%2Fmain%2FSYSML%2FUse_Case_BDD.drawio)
 
