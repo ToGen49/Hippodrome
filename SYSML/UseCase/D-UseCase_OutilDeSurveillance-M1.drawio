@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="1470" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="1672d66443f91eb5-23" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="620" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-2" value="&lt;b&gt;UC : Outil de surveillance&lt;/b&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="612" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-3" value="Envoyer les données&amp;nbsp; brutes" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="700" y="730" width="140" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-4" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-11" target="NAl52OFVss7h0lzaxRIx-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="547" y="264.5" as="sourcePoint" />
+            <mxPoint x="632" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-5" value="Traiter les données météorologique" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="425" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-6" value="Traiter les données brutes" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="840" y="495" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-7" value="Traiter les données du terrain" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-15" target="NAl52OFVss7h0lzaxRIx-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="762" y="427.5" as="sourcePoint" />
+            <mxPoint x="962" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-6" target="NAl52OFVss7h0lzaxRIx-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="802" y="280" as="sourcePoint" />
+            <mxPoint x="962" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-6" target="NAl52OFVss7h0lzaxRIx-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="802" y="280" as="sourcePoint" />
+            <mxPoint x="962" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-11" value="BDD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-12" value="Recevoir les données&amp;nbsp; brutes" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="641" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-13" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-11" target="NAl52OFVss7h0lzaxRIx-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="832" y="350" as="sourcePoint" />
+            <mxPoint x="992" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-14" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-11" target="NAl52OFVss7h0lzaxRIx-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="832" y="350" as="sourcePoint" />
+            <mxPoint x="637" y="427.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-15" value="Recevoir les données&amp;nbsp; traitées" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="660" y="645.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-16" value="Envoyer les données&amp;nbsp; Traitées" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="680" y="813" width="140" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-18" value="Acquérir les données significative météorologiques" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="632" y="195" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-19" value="Acquérir les données significative pénétrométrie" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="632" y="285" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-20" value="Environnement Climatique&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-21" value="Terrain de Course" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-24" value="Transmettre les valeurs Brutes" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="772" y="380" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-18" target="NAl52OFVss7h0lzaxRIx-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="490" as="sourcePoint" />
+            <mxPoint x="1190" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-19" target="NAl52OFVss7h0lzaxRIx-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1040" y="500" as="sourcePoint" />
+            <mxPoint x="1200" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-31" value="IHM" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="645.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-38" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-16" target="NAl52OFVss7h0lzaxRIx-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="600" as="sourcePoint" />
+            <mxPoint x="800" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-42" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-21" target="NAl52OFVss7h0lzaxRIx-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="560" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-43" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-20" target="NAl52OFVss7h0lzaxRIx-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="570" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-44" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-11" target="NAl52OFVss7h0lzaxRIx-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="650" as="sourcePoint" />
+            <mxPoint x="580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-47" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-6" target="NAl52OFVss7h0lzaxRIx-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="762" y="662" as="sourcePoint" />
+            <mxPoint x="869" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAl52OFVss7h0lzaxRIx-48" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAl52OFVss7h0lzaxRIx-12" target="NAl52OFVss7h0lzaxRIx-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="795" y="440" as="sourcePoint" />
+            <mxPoint x="879" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
