@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
   <diagram name="Page-1" id="A70qAdrdHBVWr6EGe4Zw">
-    <mxGraphModel dx="1433" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1560" width="1400" height="230" as="geometry" />
+          <mxGeometry x="120" y="1560" width="1400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-1">
           <mxGeometry width="1400" height="40" as="geometry" />
@@ -330,21 +330,8 @@
             <mxRectangle width="1030" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-1">
-          <mxGeometry y="40" width="1400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-6" value="Pré-condition(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-5">
-          <mxGeometry width="370" height="40" as="geometry">
-            <mxRectangle width="370" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-5">
-          <mxGeometry x="370" width="1030" height="40" as="geometry">
-            <mxRectangle width="1030" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-1">
-          <mxGeometry y="80" width="1400" height="110" as="geometry" />
+          <mxGeometry y="40" width="1400" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-9" value="Scénario nominal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-8">
           <mxGeometry width="370" height="110" as="geometry">
@@ -357,7 +344,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-1">
-          <mxGeometry y="190" width="1400" height="40" as="geometry" />
+          <mxGeometry y="150" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-12" value="Post-condition(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-11">
           <mxGeometry width="370" height="40" as="geometry">
