@@ -110,17 +110,17 @@
         <mxCell id="Tsat0PEg5-iKXXruWEzb-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-26">
           <mxGeometry width="860" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tsat0PEg5-iKXXruWEzb-28" value="Nom CU :" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
+        <mxCell id="Tsat0PEg5-iKXXruWEzb-28" value="&lt;b&gt;Nom CU :&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
           <mxGeometry width="270" height="40" as="geometry">
             <mxRectangle width="270" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tsat0PEg5-iKXXruWEzb-29" value="Référence : CU x" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
+        <mxCell id="Tsat0PEg5-iKXXruWEzb-29" value="&lt;b&gt;Référence : CU x&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
           <mxGeometry x="270" width="303" height="40" as="geometry">
             <mxRectangle width="303" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tsat0PEg5-iKXXruWEzb-30" value="NOM David" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
+        <mxCell id="Tsat0PEg5-iKXXruWEzb-30" value="&lt;b&gt;NOM David&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Tsat0PEg5-iKXXruWEzb-27">
           <mxGeometry x="573" width="287" height="40" as="geometry">
             <mxRectangle width="287" height="40" as="alternateBounds" />
           </mxGeometry>
