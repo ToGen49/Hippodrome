@@ -338,7 +338,7 @@
             <mxRectangle width="370" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-10" value="&lt;div&gt;1. Les capteurs prennent des données météorologiques de la station météo tels que :&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Précipitation&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Vitesse du vent&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Température du sol&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Humidité du sol&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- évapotranspiration&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-8">
+        <mxCell id="wgS-Y_190Qiyua-rPaF9-10" value="&lt;div&gt;1. Les capteurs prennent des données météorologiques de la station météo tels que :&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Précipitation&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Vitesse du vent&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- évapotranspiration&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-8">
           <mxGeometry x="370" width="1030" height="110" as="geometry">
             <mxRectangle width="1030" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -357,7 +357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-14" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1800" width="1400" height="160" as="geometry" />
+          <mxGeometry x="120" y="1800" width="1400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-14">
           <mxGeometry width="1400" height="40" as="geometry" />
@@ -372,34 +372,21 @@
             <mxRectangle width="1030" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-14">
-          <mxGeometry y="40" width="1400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-19" value="Pré-condition(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-18">
-          <mxGeometry width="370" height="40" as="geometry">
-            <mxRectangle width="370" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-18">
-          <mxGeometry x="370" width="1030" height="40" as="geometry">
-            <mxRectangle width="1030" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-14">
-          <mxGeometry y="80" width="1400" height="40" as="geometry" />
+          <mxGeometry y="40" width="1400" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-22" value="Scénario nominal" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-21">
-          <mxGeometry width="370" height="40" as="geometry">
-            <mxRectangle width="370" height="40" as="alternateBounds" />
+          <mxGeometry width="370" height="110" as="geometry">
+            <mxRectangle width="370" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wgS-Y_190Qiyua-rPaF9-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-21">
-          <mxGeometry x="370" width="1030" height="40" as="geometry">
-            <mxRectangle width="1030" height="40" as="alternateBounds" />
+        <mxCell id="wgS-Y_190Qiyua-rPaF9-23" value="&lt;div&gt;1. Les capteurs prennent des données de terrain de la station météo et du robot tels que :&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Pénètrométrie&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Géolocalisation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;- Température du sol&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;- Humidité du sol&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-21">
+          <mxGeometry x="370" width="1030" height="110" as="geometry">
+            <mxRectangle width="1030" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-14">
-          <mxGeometry y="120" width="1400" height="40" as="geometry" />
+          <mxGeometry y="150" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wgS-Y_190Qiyua-rPaF9-25" value="Post-condition(s)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wgS-Y_190Qiyua-rPaF9-24">
           <mxGeometry width="370" height="40" as="geometry">
