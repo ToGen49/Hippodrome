@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tsat0PEg5-iKXXruWEzb-12" value="Analyser les données météorologiques" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="660" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="520" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Tsat0PEg5-iKXXruWEzb-14" value="Analyser les données de terrain" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="120" height="60" as="geometry" />
