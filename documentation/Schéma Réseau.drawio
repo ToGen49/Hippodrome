@@ -5,7 +5,7 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="jol3JifbEh89Kw-O4knA-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="200" width="510" height="404" as="geometry" />
+          <mxGeometry x="1310" y="210" width="510" height="404" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Schéma Réseau Projet Outil de Surveillance" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1304.5" y="100" width="521" height="40" as="geometry" />
