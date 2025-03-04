@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1029" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="jol3JifbEh89Kw-O4knA-8" value="Pénétromètre&lt;div&gt;0x23&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" parent="1" vertex="1">
           <mxGeometry x="1190" y="541" width="52" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jol3JifbEh89Kw-O4knA-10" value="?&lt;br&gt;???.???.???.???" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="1" vertex="1">
+        <mxCell id="jol3JifbEh89Kw-O4knA-10" value="192.168.1.10/24" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="1" vertex="1">
           <mxGeometry x="1345" y="419" width="95" height="62" as="geometry" />
         </mxCell>
         <mxCell id="jol3JifbEh89Kw-O4knA-29" value="Passerelle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -51,29 +51,33 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-7" value="UDP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jol3JifbEh89Kw-O4knA-10" target="_o-MiO4tnpfckhdL8MOe-1" edge="1">
-          <mxGeometry x="-0.0204" relative="1" as="geometry">
-            <mxPoint x="1525" y="380" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="_o-MiO4tnpfckhdL8MOe-2" value="Base de Donnée (Linux)&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, Helvetica, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;192.168.1.20/16&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" parent="1" vertex="1">
+          <mxGeometry x="1629.9999999999998" y="500" width="42.06" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-1" value="Base de Donnée (Linux)&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, Helvetica, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;172.17.0.2/16&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" parent="1" vertex="1">
-          <mxGeometry x="1542.825" y="500" width="44.35" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-2" value="API Rest&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Linux)&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, Helvetica, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;172.17.0.3/16&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" parent="1" vertex="1">
-          <mxGeometry x="1719.9999999999998" y="500" width="42.06" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-11" value="HTTP" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="_o-MiO4tnpfckhdL8MOe-2" target="_o-MiO4tnpfckhdL8MOe-1" edge="1">
-          <mxGeometry x="0.0073" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1700" y="490" as="sourcePoint" />
-            <mxPoint x="1742.06" y="380" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-12" value="HTTP" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="jol3JifbEh89Kw-O4knA-2" target="_o-MiO4tnpfckhdL8MOe-2" edge="1">
+        <mxCell id="_o-MiO4tnpfckhdL8MOe-12" value="API REST" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="jol3JifbEh89Kw-O4knA-2" target="_o-MiO4tnpfckhdL8MOe-2" edge="1">
           <mxGeometry x="0.2157" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="500" as="sourcePoint" />
             <mxPoint x="1817" y="389" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knzOVHaRc_VOX6EdOv9N-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="230" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="knzOVHaRc_VOX6EdOv9N-2" value="TTN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1522.5" y="246" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="knzOVHaRc_VOX6EdOv9N-3" value="API HTTP" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="knzOVHaRc_VOX6EdOv9N-1" target="_o-MiO4tnpfckhdL8MOe-2">
+          <mxGeometry x="0.2157" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="472" as="sourcePoint" />
+            <mxPoint x="1630" y="565" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knzOVHaRc_VOX6EdOv9N-4" value="Basics Station" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.056;exitY=0.733;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jol3JifbEh89Kw-O4knA-29" target="knzOVHaRc_VOX6EdOv9N-1">
+          <mxGeometry x="0.2157" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="483" as="sourcePoint" />
+            <mxPoint x="1480" y="576" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
