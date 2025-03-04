@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="i5tifkxqL2qFLtLCvqDo">
-    <mxGraphModel dx="2017" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2265" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-71" value="text=&quot;L&#39;IHM doit afficher une carte de l&#39;hippodrome contenant plusieurs informations à certains points de la carte&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-67">
           <mxGeometry y="42" width="140" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-72" value="Id=&quot;5.5&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-67">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-72" value="Id=&quot;5.1.9&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-67">
           <mxGeometry y="140" width="140" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-73" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-67">
@@ -211,7 +211,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-78" value="text=&quot;L&#39;humidité du sol devra être affichée en pourcentage, la couleur de l&#39;écriture changera en fonction de la valeur&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-74">
           <mxGeometry y="42" width="180" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-79" value="Id=&quot;5.5.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-74">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-79" value="Id=&quot;5.1.9.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-74">
           <mxGeometry y="110" width="180" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-80" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-74">
@@ -232,7 +232,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-85" value="text=&quot;L&#39;état du terrain sera affiché sous une couleur&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-81">
           <mxGeometry y="42" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-86" value="Id=&quot;5.5.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-81">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-86" value="Id=&quot;5.1.9.2&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-81">
           <mxGeometry y="90" width="150" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-87" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-81">
@@ -253,7 +253,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-92" value="text=&quot;L&#39;IHM devra afficher l&#39;état moyen du terrain&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-88">
           <mxGeometry y="58" width="150" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-93" value="Id=&quot;5.1.7&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-88">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-93" value="Id=&quot;5.1.11&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-88">
           <mxGeometry y="96" width="150" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-94" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-88">
@@ -274,7 +274,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-99" value="text=&quot;L&#39;IHM devra afficher l&#39;état moyen de chaque piste&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-95">
           <mxGeometry y="58" width="130" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-100" value="Id=&quot;5.1.8&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-95">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-100" value="Id=&quot;5.1.10&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-95">
           <mxGeometry y="120" width="130" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-101" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-95">
@@ -295,7 +295,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-106" value="text=&quot;L&#39;IHM devra afficher la vitesse du vent en km/h&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-102">
           <mxGeometry y="38" width="130" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-107" value="Id=&quot;5.5.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-102">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-107" value="Id=&quot;5.1.7&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-102">
           <mxGeometry y="90" width="130" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-108" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-102">
@@ -316,7 +316,7 @@
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-115" value="text=&quot;L&#39;IHM devra afficher la direction du vent à 45° près&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-111">
           <mxGeometry y="38" width="130" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="hqUX3ECjdQeUj9T4MXPY-116" value="Id=&quot;5.5.1&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-111">
+        <mxCell id="hqUX3ECjdQeUj9T4MXPY-116" value="Id=&quot;5.1.8&quot;" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-111">
           <mxGeometry y="100" width="130" height="16" as="geometry" />
         </mxCell>
         <mxCell id="hqUX3ECjdQeUj9T4MXPY-117" value="" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" vertex="1" parent="hqUX3ECjdQeUj9T4MXPY-111">
