@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="954" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="jol3JifbEh89Kw-O4knA-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="300" width="510" height="314" as="geometry" />
+          <mxGeometry x="1310" y="290" width="560" height="324" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Schéma Réseau Projet Outil de Surveillance" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1304.5" y="100" width="521" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jol3JifbEh89Kw-O4knA-2" value="IHM WinFrom Opérateur&lt;div&gt;192.168.1.x/24&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" parent="1" vertex="1">
-          <mxGeometry x="1709.415" y="353.25" width="63.23" height="53.5" as="geometry" />
+          <mxGeometry x="1770.0049999999999" y="304.25" width="63.23" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="jol3JifbEh89Kw-O4knA-6" value="Capteurs Piste&lt;div&gt;0x01-0x20&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" parent="1" vertex="1">
           <mxGeometry x="1190" y="300" width="52" height="62" as="geometry" />
@@ -52,14 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_o-MiO4tnpfckhdL8MOe-2" value="Base de Données&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, Helvetica, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;192.168.1.20/24&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" parent="1" vertex="1">
-          <mxGeometry x="1629.9999999999998" y="500" width="42.06" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="_o-MiO4tnpfckhdL8MOe-12" value="API REST" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="jol3JifbEh89Kw-O4knA-2" target="_o-MiO4tnpfckhdL8MOe-2" edge="1">
-          <mxGeometry x="0.2157" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1710" y="500" as="sourcePoint" />
-            <mxPoint x="1817" y="389" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="1526.4699999999998" y="500" width="42.06" height="55" as="geometry" />
         </mxCell>
         <mxCell id="knzOVHaRc_VOX6EdOv9N-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="1" vertex="1">
           <mxGeometry x="1500" y="230" width="95" height="62" as="geometry" />
@@ -79,6 +72,21 @@
             <mxPoint x="1480" y="483" as="sourcePoint" />
             <mxPoint x="1480" y="576" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XWeDV_0TRH80jFfIDDRV-1" value="API Rest&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: Roboto, Helvetica, sans-serif; font-size: 14px; text-align: left; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;192.168.1.20/24&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pbx_server;" vertex="1" parent="1">
+          <mxGeometry x="1639.9999999999998" y="409.5" width="42.06" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XWeDV_0TRH80jFfIDDRV-4" value="HTTP" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="_o-MiO4tnpfckhdL8MOe-2" target="XWeDV_0TRH80jFfIDDRV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="420" as="sourcePoint" />
+            <mxPoint x="1550" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XWeDV_0TRH80jFfIDDRV-5" value="HTTP" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XWeDV_0TRH80jFfIDDRV-1" target="jol3JifbEh89Kw-O4knA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="420" as="sourcePoint" />
+            <mxPoint x="1550" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
