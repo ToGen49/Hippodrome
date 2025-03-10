@@ -9,3 +9,5 @@
 - [MAX-M10S](https://www.mouser.fr/ProductDetail/u-blox/MAX-M10S-00B?qs=A6eO%252BMLsxmT0PfQYPb7LLQ%3D%3D)
 - [LC29H](https://www.mouser.fr/ProductDetail/Quectel/LC29HBAMD?qs=vvQtp7zwQdMkPefYhTbq2A%3D%3D)
 - [ZED-F9P](https://www.mouser.fr/ProductDetail/u-blox/ZED-F9P-05B?qs=IKkN%2F947nfAvQvJhS0qR1w%3D%3D)
+#LTE-M
+- [datasheet_nRF9151](https://docs-be.nordicsemi.com/bundle/ps_nrf9151/page/nRF9151_PS_v1.0.pdf?_LANG=enus)
