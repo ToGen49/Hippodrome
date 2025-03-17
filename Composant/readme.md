@@ -11,3 +11,4 @@
 - [ZED-F9P](https://www.mouser.fr/ProductDetail/u-blox/ZED-F9P-05B?qs=IKkN%2F947nfAvQvJhS0qR1w%3D%3D)
 # LTE-M
 - [datasheet_nRF9151](https://docs-be.nordicsemi.com/bundle/ps_nrf9151/page/nRF9151_PS_v1.0.pdf?_LANG=enus)
+- [USB-C](https://github.com/minoseigenheer/SWD-over-USB-C/blob/main/Schematic_DAM_detection.pdf)
