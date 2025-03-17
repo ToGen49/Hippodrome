@@ -14,4 +14,5 @@
 # USB
 - [USB-C](https://github.com/minoseigenheer/SWD-over-USB-C/blob/main/Schematic_DAM_detection.pdf)
 # e-SIM
+- [SoftSIM](https://onomondo.com/product/softsim-for-nordic-semiconductor/)
 - [Provisioning](https://www.gsma.com/newsroom/wp-content/uploads//SGP.02_v3.2_updated.pdf)
