@@ -10,7 +10,8 @@ Les membres du projet sont :\
 \
 Description des répertoires :\
 &ensp;Documents Originaux :\
-&ensp;&ensp;Documents donnés pour le projet (cahier des charges, ...), ces documents n'ont pas été fait par les membres du projets\
+&ensp;&ensp;Documents donnés pour le projet (cahier des charges, ...),  
+&ensp;&ensp;ces documents n'ont pas été fait par les membres du projets\
 \
 &ensp;Documentation :\
 &ensp;&ensp;Les différents documents concernant le projet (UML(UC, ...), SysML)
