@@ -1,4 +1,4 @@
-Git du projet "Outil de Surveillance pour un Hippodrome"
+Git du projet "Outil de Surveillance pour un Hippodrome" \n
 Ce projet est une solution pour l'hippodrome d'Angers-Ecouflant
 
 Les membres du projet sont :
