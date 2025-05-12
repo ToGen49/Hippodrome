@@ -1,0 +1,25 @@
+{
+  "equipements": [
+    {
+      "code": "EQP001",
+      "nom": "Pompe A",
+      "capteur": {
+        "type": "pression"
+      }
+    },
+    {
+      "code": "EQP002",
+      "nom": "Pompe B",
+      "capteur": {
+        "type": "température"
+      }
+    },
+    {
+      "code": "EQP003",
+      "nom": "Pompe C",
+      "capteur": {
+        "type": "débit"
+      }
+    }
+  ]
+}
