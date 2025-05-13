@@ -3,10 +3,6 @@ Connexion par ssh sur le routeur :
   mot de passe : adminssh
 
 Routeur cisco :
-  Console :
-    mot de passe :
+  Console : admin25
+  Privilégié : hippodrome2025
 
-  Privilégié :
-    mot de passe : 
-
-  hippodrome2025
