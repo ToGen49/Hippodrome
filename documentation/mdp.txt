@@ -1,0 +1,12 @@
+Connexion par ssh sur le routeur :
+  user : adminssh
+  mot de passe : adminssh
+
+Routeur cisco :
+  Console :
+    mot de passe :
+
+  Privilégié :
+    mot de passe : 
+
+  hippodrome2025
