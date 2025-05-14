@@ -1,0 +1,22 @@
+window_sizes 1920 1009 275 1640 859 104
+
+diagrams
+  sequencediagram_ref 128015 // CInfoMeteo.mVFunUpdatemLstObjCJsonMeteo(DateTime, DateTime)
+    1465 859 110 A0 39 0
+  active  classdiagram_ref 128100 // DiagrammeClasse
+    1640 859 80 D-Landscape 966 0
+end
+show_stereotypes
+selected operation_ref 136591 // mVFunVerifiermLstObjCJsonMoyenne
+open
+  class_ref 134628 // HTTPClient
+  class_ref 134884 // CInfoMeteo
+  class_ref 141540 // CEnsoleillement
+  class_ref 141668 // CEVapotranspiration
+  class_ref 141796 // CHygrometrie
+  class_ref 142180 // CVitesseVent
+  class_ref 142308 // CTemperatureAir
+  class_ref 142564 // CPluviometrie
+  class_ref 142820 // CTemperatureTerrain
+end
+end
