@@ -1,0 +1,18 @@
+window_sizes 1920 1009 211 1704 862 101
+
+diagrams
+  active  classdiagram_ref 128100 // DiagrammeClasse
+    1704 862 109 D-Landscape 41 385
+end
+show_stereotypes
+selected operation_ref 131080 // vfunCheckAndAdjustNearbyCoordinates
+open
+  class_ref 128008 // CForms1
+  class_ref 128136 // CFormsEditPiste
+  class_ref 128264 // CCoordinate
+  class_ref 128392 // CJsonPenetrometrie
+  class_ref 128520 // CConversionPenetrometrie
+  class_ref 135048 // CJsonRelationChocs
+  class_ref 141576 // CJsonZones
+end
+end
