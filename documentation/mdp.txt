@@ -6,3 +6,6 @@ Routeur cisco :
   Console : admin25
   Privilégié : hippodrome2025
 
+Poste Passerelle :
+  user : root, passerelle
+  mot de passe : root, admin
