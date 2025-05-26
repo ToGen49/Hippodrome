@@ -1,5 +1,5 @@
 Git du projet "Outil de Surveillance pour un Hippodrome"\
-Ce projet est une solution pour l'hippodrome d'Angers-Ecouflant\
+Ce projet suit la demande de l'hippodrome d'Angers-Ecouflant\
 \
 Les membres du projet sont :\
 &ensp;1 - Nathan MAILLOT\
