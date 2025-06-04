@@ -1,0 +1,334 @@
+format 224
+
+classcanvas 128100 class_ref 128100 // CApi
+  classdiagramsettings member_max_width 0 end
+  xyzwh 585.22 1631.76 2000 580 203
+end
+classcanvas 128228 class_ref 134628 // HTTPClient
+  classdiagramsettings member_max_width 0 end
+  xyz 475.33 1713.76 2000
+end
+classcanvas 128264 class_ref 128008 // ApplicationHippodrome
+  classdiagramsettings member_max_width 0 end
+  xyz 421.96 460.73 2000
+end
+classcanvas 128392 class_ref 128136 // CFormsEditPiste
+  classdiagramsettings member_max_width 0 end
+  xyz 329.89 38.03 2006
+end
+classcanvas 128520 class_ref 128264 // CCoordinate
+  classdiagramsettings member_max_width 0 end
+  xyz 884.95 494.27 2000
+end
+classcanvas 128612 class_ref 134756 // CJsonMeteo
+  classdiagramsettings member_max_width 0 end
+  xyz 947.11 1006.34 2000
+end
+classcanvas 128648 class_ref 128392 // CJsonPenetrometrie
+  classdiagramsettings member_max_width 0 end
+  xyz 929.95 625.7 2000
+end
+classcanvas 128740 class_ref 134884 // CInfoMeteo
+  classdiagramsettings member_max_width 0 end
+  xyz 2364.95 820.97 2000
+end
+classcanvas 128776 class_ref 128520 // CConversionPenetrometrie
+  classdiagramsettings member_max_width 0 end
+  xyz 39.03 524.73 2000
+end
+classcanvas 128904 class_ref 135048 // CJsonRelationChocs
+  classdiagramsettings member_max_width 0 end
+  xyz 151.45 405.45 2000
+end
+classcanvas 129032 class_ref 141576 // CJsonZones
+  classdiagramsettings member_max_width 0 end
+  xyz 908.53 390.06 2000
+end
+classcanvas 130020 class_ref 141412 // CDirectionVent
+  classdiagramsettings member_max_width 0 end
+  xyz 3084 1115.55 2000
+end
+classcanvas 130148 class_ref 141540 // CEnsoleillement
+  classdiagramsettings member_max_width 0 end
+  xyz 2659.39 1598.78 2000
+end
+classcanvas 130276 class_ref 141668 // CEVapotranspiration
+  classdiagramsettings member_max_width 0 end
+  xyz 1265.98 1116.36 2000
+end
+classcanvas 130404 class_ref 141796 // CHygrometrie
+  classdiagramsettings member_max_width 0 end
+  xyz 653.96 1321.72 2000
+end
+classcanvas 131044 class_ref 141924 // CInfoArrosage
+  classdiagramsettings member_max_width 0 end
+  xyz 804.87 860.29 2000
+end
+classcanvas 131172 class_ref 142052 // CJsonArrosage
+  classdiagramsettings member_max_width 0 end
+  xyz 641.39 873.29 2000
+end
+classcanvas 131684 class_ref 142180 // CVitesseVent
+  classdiagramsettings member_max_width 0 end
+  xyz 2511.95 1201.37 2000
+end
+classcanvas 131812 class_ref 142308 // CTemperatureAir
+  classdiagramsettings member_max_width 0 end
+  xyz 2246.3 1115.39 2000
+end
+classcanvas 133604 class_ref 142436 // CJSonCapteurTerrain
+  classdiagramsettings member_max_width 0 end
+  xyz 166.13 1833.49 2000
+end
+classcanvas 133860 class_ref 142564 // CPluviometrie
+  classdiagramsettings member_max_width 0 end
+  xyz 2815.67 1115.39 2000
+end
+classcanvas 134116 class_ref 142692 // CInfoTerrain
+  classdiagramsettings member_max_width 0 end
+  xyz 336.03 1812.49 2000
+end
+classcanvas 134244 class_ref 142820 // CTemperatureTerrain
+  classdiagramsettings member_max_width 0 end
+  xyz 335.03 2012.16 2000
+end
+classcanvas 134372 class_ref 142948 // CHumiditeTerrain
+  classdiagramsettings member_max_width 0 end
+  xyz 103.77 2012.16 2000
+end
+relationcanvas 128356 relation_ref 128100 // <composition>
+  from ref 128100 z 2001 to ref 128228
+  role_a_pos 540 1758 3000 no_role_b
+  multiplicity_a_pos 514 1758 3000 multiplicity_b_pos 562 1808 3000
+end
+relationcanvas 128911 relation_ref 128015 // <unidirectional association>
+  from ref 128740 z 2001 to point 3379.78 929.78
+  line 132623 z 2001 to point 3379.78 1733.3
+  line 132751 z 2001 to ref 128100
+  role_a_pos 1173 1714 3000 no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129160 relation_ref 128008 // <composition>
+  decenter_begin 425
+  decenter_end 29
+  from ref 128264 z 2001 to ref 128100
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129252 relation_ref 128356 // <composition>
+  decenter_begin 925
+  decenter_end 261
+  from ref 128740 z 2001 stereotype "<<list>>" xyz 1596 1011 3000 to ref 128612
+  role_a_pos 1077 1004 3000 no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129288 relation_ref 128136 // <composition>
+  from ref 128264 z 2001 to ref 128776
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129416 relation_ref 128264 // <composition>
+  geometry VH unfixed
+  from ref 128264 z 2001 to point 630.16 420.36
+  line 131983 z 2001 to ref 129032
+  no_role_a no_role_b
+  multiplicity_a_pos 881 429 3000 multiplicity_b_pos 616 441 3000
+end
+relationcanvas 129544 relation_ref 128392 // <composition>
+  decenter_begin 720
+  from ref 128264 z 2001 to ref 128648
+  no_role_a no_role_b
+  multiplicity_a_pos 902 670 3000 multiplicity_b_pos 853 670 3000
+end
+relationcanvas 129672 relation_ref 128520 // <unidirectional association>
+  decenter_end 472
+  from ref 128776 z 2001 to ref 128904
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129928 relation_ref 128776 // <composition>
+  decenter_begin 514
+  from ref 129032 z 2001 to ref 128520
+  no_role_a no_role_b
+  multiplicity_a_pos 988 475 3000 multiplicity_b_pos 998 461 3000
+end
+relationcanvas 130056 relation_ref 128904 // <composition>
+  from ref 128648 z 2001 to ref 128520
+  no_role_a no_role_b
+  multiplicity_a_pos 989 591 3000 multiplicity_b_pos 999 605 3000
+end
+relationcanvas 130063 relation_ref 134543 // <generalisation>
+  decenter_begin 483
+  decenter_end 493
+  from ref 131684 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130184 relation_ref 129032 // <composition>
+  decenter_begin 279
+  from ref 128264 z 2001 to ref 128520
+  no_role_a no_role_b
+  multiplicity_a_pos 857 545 3000 multiplicity_b_pos 853 545 3000
+end
+relationcanvas 130447 relation_ref 134671 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 483
+  decenter_end 493
+  from ref 131812 z 2001 to point 2354 1076.64
+  line 130959 z 2001 to point 2619 1076.64
+  line 131087 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130532 relation_ref 135268 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 483
+  decenter_end 493
+  from ref 130404 z 2001 to point 761 1075.26
+  line 128099 z 2001 to point 2619 1075.26
+  line 128227 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130568 relation_ref 135560 // <composition>
+  decenter_begin 407
+  from ref 128264 z 2007 to ref 128392
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130660 relation_ref 135396 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 486
+  decenter_end 493
+  from ref 130020 z 2001 to point 3204 1076.64
+  line 128008 z 2001 to point 2619 1076.64
+  line 128136 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130788 relation_ref 135524 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 518
+  decenter_end 493
+  from ref 130148 z 2001 to point 2775 1076.64
+  line 130703 z 2001 to point 2619 1076.64
+  line 130831 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 130916 relation_ref 135652 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 495
+  decenter_end 493
+  from ref 130276 z 2001 to point 1729 1076.64
+  line 132452 z 2001 to point 2619 1076.64
+  line 132580 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131300 relation_ref 135780 // <composition>
+  from ref 131044 z 2001 stereotype "<<list>>" xyz 814 914 3000 to ref 131172
+  role_a_pos 775 893 3000 no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131343 relation_ref 134799 // <composition>
+  decenter_begin 962
+  decenter_end 71
+  from ref 128264 z 2001 to point 828.4 781.54
+  line 132111 z 2001 to point 1054.28 781.54
+  line 132239 z 2001 to point 1054.28 836.44
+  line 132367 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131428 relation_ref 135908 // <unidirectional association>
+  geometry VH unfixed
+  decenter_begin 495
+  from ref 130276 z 2001 to point 1729 1648
+  line 130575 z 2001 to ref 130148
+  role_a_pos 2556 1630 3000 no_role_b
+  multiplicity_a_pos 2649 1651 3000 multiplicity_b_pos 1719 1585 3000
+end
+relationcanvas 131471 relation_ref 134927 // <composition>
+  decenter_begin 39
+  decenter_end 483
+  from ref 128264 z 2001 to ref 134116
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131599 relation_ref 135055 // <composition>
+  geometry VHV unfixed
+  decenter_begin 869
+  decenter_end 75
+  from ref 128264 z 2001 to point 786 820.36
+  line 131727 z 2001 to point 817 820.36
+  line 131855 z 2001 to ref 131044
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131940 relation_ref 136164 // <unidirectional association>
+  decenter_begin 93
+  from ref 130276 z 2001 to ref 131812
+  role_a_pos 2137 1159 3000 no_role_b
+  multiplicity_a_pos 2237 1180 3000 multiplicity_b_pos 2203 1188 3000
+end
+relationcanvas 132196 relation_ref 136292 // <unidirectional association>
+  decenter_begin 268
+  from ref 130276 z 2001 to ref 131684
+  role_a_pos 2417 1235 3000 no_role_b
+  multiplicity_a_pos 2502 1257 3000 multiplicity_b_pos 2203 1265 3000
+end
+relationcanvas 132324 relation_ref 136420 // <unidirectional association>
+  decenter_begin 507
+  from ref 130276 z 2001 to ref 130404
+  role_a_pos 884 1351 3000 no_role_b
+  multiplicity_a_pos 884 1373 3000 multiplicity_b_pos 1262 1370 3000
+end
+relationcanvas 133476 relation_ref 136548 // <unidirectional association>
+  decenter_begin 483
+  decenter_end 555
+  from ref 131044 z 2001 to ref 128100
+  role_a_pos 915 1612 3000 no_role_b
+  multiplicity_a_pos 889 1612 3000 multiplicity_b_pos 889 973 3000
+end
+relationcanvas 133988 relation_ref 136676 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 483
+  decenter_end 493
+  from ref 133860 z 2001 to point 2923 1076.64
+  line 129423 z 2001 to point 2619 1076.64
+  line 129551 z 2001 to ref 128740
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 134500 relation_ref 136804 // <generalisation>
+  decenter_begin 483
+  decenter_end 483
+  from ref 134244 z 2001 to ref 134116
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 134628 relation_ref 136932 // <generalisation>
+  geometry VHV unfixed
+  decenter_begin 481
+  decenter_end 483
+  from ref 134372 z 2001 to point 193 1973.5
+  line 129679 z 2001 to point 435 1973.5
+  line 129807 z 2001 to ref 134116
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 134756 relation_ref 137060 // <composition>
+  from ref 134116 z 2001 stereotype "<<list>>" xyz 290 1870 3000 to ref 133604
+  role_a_pos 306 1855 3000 no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 134884 relation_ref 137188 // <unidirectional association>
+  geometry HV unfixed
+  from ref 134116 z 2001 to point 871.74 1871.74
+  line 132495 z 2001 to ref 128100
+  role_a_pos 883 1840 3000 no_role_b
+  multiplicity_a_pos 857 1840 3000 multiplicity_b_pos 556 1880 3000
+end
+preferred_whz 0 0 0.6
+end
